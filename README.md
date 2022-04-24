@@ -1,2 +1,2 @@
-# SQL
-  Exemplos de relatórios
+# Python x SQLite
+ 
